@@ -1,2 +1,2 @@
-# elylyon-tech-world
+# Elylyon-Tech-World
 Codifying everything tech
